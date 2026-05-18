@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    color: red;
+}
+
+h1::before{
+    content: "Before";
+    color: blue;
+}
+
+h1::after{
+    content: "After";
+    color: green;
+    font-size: 100px;
+    
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: yellowgreen;
+}
+
+#box::before{
+    content: "Before";
+    
+}
