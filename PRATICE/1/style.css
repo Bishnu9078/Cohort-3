@@ -83,6 +83,22 @@ nav .header{
 
 .hero-div{
     width:100%;
-    height: calc(100% - 60px);
-    background-color: brown;
+    height: calc(100% - 70px);
+    background-color: rgb(204, 209, 215);
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
 }
+
+.hero-div .left{
+    width: 50%;
+    height: 100%;
+    background: crimson;
+}
+
+.hero-div .right{
+    width: 50%;
+    height: 100%;
+    background: rgb(212, 106, 171);
+}
+
