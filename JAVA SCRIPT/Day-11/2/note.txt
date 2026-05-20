@@ -1,0 +1,18 @@
+DATA TYPE:
+
+1. Primitive
+    -Number
+    -String
+    -Boolean
+    -Undefined
+    -Null
+    -BigInt
+    -Symbol
+    
+
+
+
+2.Non-Primitive / Reference
+    -Array
+    -Objects
+    -Function
