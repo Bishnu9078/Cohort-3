@@ -1,0 +1,5 @@
+// var - value updation, function scoped
+// let - value updation, block scoped
+// const - no value updation , block scoped
+
+// TDZ- Temporal Dead Zone
