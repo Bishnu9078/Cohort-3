@@ -1,0 +1,4 @@
+push- add element in last
+pop - remove element in last
+unshift- add element in starting
+shift- remove element in front
