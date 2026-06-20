@@ -1,0 +1,2 @@
+map- transform,length will be same and each element will be added
+transfer- select, length may be change  and only in matching elements
